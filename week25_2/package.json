@@ -1,5 +1,5 @@
 {
-  "name": "mono",
+  "name": "week25_2",
   "private": true,
   "scripts": {
     "build": "turbo run build",
